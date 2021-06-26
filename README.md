@@ -1,5 +1,6 @@
-# three-car-pileup
-![GitHub Cover](https://blog.hertimetocode.com/wp-content/uploads/2021/06/Car-accident.jpg)
+### THREE CAR PILEUP 
+
+![GitHub Cover](https://blog.hertimetocode.com/wp-content/uploads/2021/06/Car-accident-e1624677750909.jpg)
 
 ### About The Three Car Pileup
 I created the Three Car Pileup for a few reasons: 
