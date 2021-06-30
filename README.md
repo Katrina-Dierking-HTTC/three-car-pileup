@@ -39,6 +39,8 @@ I have created a follow-along document to go along with the project. It breaks d
 
 Download the [Three Car Pileup Doc](https://blog.hertimetocode.com/wp-content/uploads/2021/06/React-_-Passing-Data-via-Props.pdf)
 
+![HEARTBEAT](https://blog.hertimetocode.com/wp-content/uploads/2021/06/heart-1672625_640-e1625063447715.png)![HEARTBEAT](https://blog.hertimetocode.com/wp-content/uploads/2021/06/heart-1672625_640-e1625063447715.png)![HEARTBEAT](https://blog.hertimetocode.com/wp-content/uploads/2021/06/heart-1672625_640-e1625063447715.png)![HEARTBEAT](https://blog.hertimetocode.com/wp-content/uploads/2021/06/heart-1672625_640-e1625063447715.png)![HEARTBEAT](https://blog.hertimetocode.com/wp-content/uploads/2021/06/heart-1672625_640-e1625063447715.png)
+
 ### If you're ready for styling: 
 
 While there are many styling frameworks, you should first know HTML/CSS along with Flexbox.
