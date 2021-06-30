@@ -34,11 +34,16 @@ I have created a follow-along document to go along with the project. It breaks d
       *** In the near future, each of these concepts will have accompanying documentation and source code to view if you get stuck.
       
 ### React - Prop Drilling Documentation and Visual Aid
-[PASSING DATA THROUGH PROPS](https://blog.hertimetocode.com/wp-content/uploads/2021/06/propsImg.png)
+
+![PASSING DATA THROUGH PROPS](https://blog.hertimetocode.com/wp-content/uploads/2021/06/React-_-Passing-Data-via-Props-1-e1625063071855.jpg)
+
 Download the [Three Car Pileup Doc](https://blog.hertimetocode.com/wp-content/uploads/2021/06/React-_-Passing-Data-via-Props.pdf)
 
 ### If you're ready for styling: 
+
 While there are many styling frameworks, you should first know HTML/CSS along with Flexbox.
-[HTML/CSS](https://blog.hertimetocode.com/wp-content/uploads/2021/04/HTML-CSS-Ref-Cards-Spiral-e1618514907422.png)
+
+![HTML/CSS](https://blog.hertimetocode.com/wp-content/uploads/2021/06/HTML-CSS-Ref-Cards-Spiral-sm-e1625063250179.png)
+
 Download the [HTML/CSS Reference Cards](https://blog.hertimetocode.com/wp-content/uploads/2021/06/HTML_-CSS-at-a-Glance-4.pdf)
 
